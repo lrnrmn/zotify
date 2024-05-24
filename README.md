@@ -1,9 +1,11 @@
 # Zotify Android Guide
 ## Install Termux
 Download the latest termux apk from [f-droid](https://f-droid.org/en/packages/com.termux/)
+
 Install it on your device.
 ## Give the correct permissions
 Tap and hold the app icon, tap on "App Info".
+
 Tap on `Permissions` and give termux all the permissions it asks for.
 ## Install base packages
 Open termux.
