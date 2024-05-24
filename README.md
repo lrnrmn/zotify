@@ -53,7 +53,7 @@ AAcc123456
 ```
 Now, zotify is in search mode.
 
-Because we haven't configured it yet, we want to cancle the search.
+Because we haven't configured it yet, cancle the search:
 
 Tap `ctrl`, `c` and then `enter` to cancel the search.
 
