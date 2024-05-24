@@ -84,3 +84,5 @@ Exit `nano` with `ctrl`, `x`
 
 ---
 DONE! Go ahead and download some music!
+
+> From my experience, [Poweramp](https://forum.mobilism.org/viewtopic.php?f=1332&t=5533524&hilit=poweramp+poweramp) works best with zotify.
