@@ -45,7 +45,7 @@ Enter:
 ```bash
 314lkjdsaix2ssw3suw2k4yqwapy
 ```
-It will also ask you for a password.
+Next, it will also ask you for a password.
 
 Enter:
 ```bash
